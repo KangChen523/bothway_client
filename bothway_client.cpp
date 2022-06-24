@@ -29,7 +29,6 @@ static void Run(std::shared_ptr<TTransport> sock)
     std::shared_ptr<bothwayClientIfc> handler(new bothwayClientIfc());
     std::shared_ptr<TProcessor> processor(new bothwayProcessor(handler));
 
-    //boost::shared_ptr<HelloWorldBidirectionServiceProcessor> processor(new HelloWorldBidirectionFace());
     try
     {
         std::shared_ptr<TProtocol> inProtocol(new TBinaryProtocol(sock));
