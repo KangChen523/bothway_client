@@ -1,0 +1,3 @@
+E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug/CMakeFiles/bothway_client.dir
+E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug/CMakeFiles/rebuild_cache.dir

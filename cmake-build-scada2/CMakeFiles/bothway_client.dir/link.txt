@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wno-unused-variable -Wno-unused-parameter -g    CMakeFiles/bothway_client.dir/bothway.cpp.o CMakeFiles/bothway_client.dir/bothway_client.cpp.o  -o bothway_client -rdynamic -lthrift-0.15.0 -lpthread 

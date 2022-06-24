@@ -1,0 +1,4 @@
+"D:\DevelopmentTool\JetBrains\CLion 2021.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DQT_MOC_EXECUTABLE=D:\DevelopmentTool\Qt\5.9\msvc2015_64/bin/moc.exe -DQT_RCC_EXECUTABLE=D:\DevelopmentTool\Qt\5.9\msvc2015_64/bin/rcc.exe -DQT_UIC_EXECUTABLE=D:\DevelopmentTool\Qt\5.9\msvc2015_64/bin/uic.exe -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" E:\Sieyuan\Super6000_jk\theta_version\ems_application\pas_idl\bothway_client
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug

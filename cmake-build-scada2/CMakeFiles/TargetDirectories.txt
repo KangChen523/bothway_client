@@ -1,0 +1,1 @@
+/users/ems/bothway_client/cmake-build-scada2/CMakeFiles/bothway_client.dir

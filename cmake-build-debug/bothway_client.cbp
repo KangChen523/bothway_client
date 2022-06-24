@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="bothway_client"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/DevelopmentTool/mingw64/bin/mingw32-make.exe -f &quot;E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/DevelopmentTool/mingw64/bin/mingw32-make.exe -f &quot;E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevelopmentTool/mingw64/bin/mingw32-make.exe -f &quot;E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevelopmentTool/mingw64/bin/mingw32-make.exe -f &quot;E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bothway_client">
+				<Option output="E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug/bothway_client.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug"/>
+					<Add directory="E:/Sieyuan/Super6000_jk/theta_version/include/public"/>
+					<Add directory="E:/Sieyuan/Super6000_jk/theta_version/include/public/thrift"/>
+					<Add directory="D:/DevelopmentTool/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/DevelopmentTool/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/DevelopmentTool/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/DevelopmentTool/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/DevelopmentTool/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/DevelopmentTool/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/DevelopmentTool/mingw64/bin/mingw32-make.exe -f &quot;E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug/Makefile&quot;  VERBOSE=1 bothway_client"/>
+					<CompileFile command="D:/DevelopmentTool/mingw64/bin/mingw32-make.exe -f &quot;E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevelopmentTool/mingw64/bin/mingw32-make.exe -f &quot;E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevelopmentTool/mingw64/bin/mingw32-make.exe -f &quot;E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bothway_client/fast">
+				<Option output="E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug/bothway_client.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug"/>
+					<Add directory="E:/Sieyuan/Super6000_jk/theta_version/include/public"/>
+					<Add directory="E:/Sieyuan/Super6000_jk/theta_version/include/public/thrift"/>
+					<Add directory="D:/DevelopmentTool/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/DevelopmentTool/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/DevelopmentTool/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/DevelopmentTool/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/DevelopmentTool/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/DevelopmentTool/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/DevelopmentTool/mingw64/bin/mingw32-make.exe -f &quot;E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug/Makefile&quot;  VERBOSE=1 bothway_client/fast"/>
+					<CompileFile command="D:/DevelopmentTool/mingw64/bin/mingw32-make.exe -f &quot;E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevelopmentTool/mingw64/bin/mingw32-make.exe -f &quot;E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevelopmentTool/mingw64/bin/mingw32-make.exe -f &quot;E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/DevelopmentTool/mingw64/bin/mingw32-make.exe -f &quot;E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/DevelopmentTool/mingw64/bin/mingw32-make.exe -f &quot;E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevelopmentTool/mingw64/bin/mingw32-make.exe -f &quot;E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevelopmentTool/mingw64/bin/mingw32-make.exe -f &quot;E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/DevelopmentTool/mingw64/bin/mingw32-make.exe -f &quot;E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/DevelopmentTool/mingw64/bin/mingw32-make.exe -f &quot;E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevelopmentTool/mingw64/bin/mingw32-make.exe -f &quot;E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevelopmentTool/mingw64/bin/mingw32-make.exe -f &quot;E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/bothway.cpp">
+			<Option target="bothway_client"/>
+		</Unit>
+		<Unit filename="E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/bothway.h">
+			<Option target="bothway_client"/>
+		</Unit>
+		<Unit filename="E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/bothway_client.cpp">
+			<Option target="bothway_client"/>
+		</Unit>
+		<Unit filename="E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/bothway_client.h">
+			<Option target="bothway_client"/>
+		</Unit>
+		<Unit filename="E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/bothway_types.h">
+			<Option target="bothway_client"/>
+		</Unit>
+		<Unit filename="E:/Sieyuan/Super6000_jk/theta_version/ems_application/pas_idl/bothway_client/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

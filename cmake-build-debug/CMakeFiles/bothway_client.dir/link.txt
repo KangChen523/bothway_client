@@ -1,0 +1,3 @@
+"D:\DevelopmentTool\JetBrains\CLion 2021.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\bothway_client.dir/objects.a
+D:\DevelopmentTool\mingw64\bin\ar.exe cr CMakeFiles\bothway_client.dir/objects.a @CMakeFiles\bothway_client.dir\objects1.rsp
+D:\DevelopmentTool\mingw64\bin\g++.exe  -Wno-unused-variable -Wno-unused-parameter -g -Wl,--whole-archive CMakeFiles\bothway_client.dir/objects.a -Wl,--no-whole-archive -o bothway_client.exe -Wl,--out-implib,libbothway_client.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\bothway_client.dir\linklibs.rsp
